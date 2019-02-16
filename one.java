@@ -5,7 +5,7 @@ public static void main(String gg[])
 {
 System.out.println("Date is:"+new Date());
 System.out.println("Updated");
-System.out.println("Update 2");
-throw new RuntimeException("Exception for testing jendkins fail feature");
+System.out.println("Update 3");
+//throw new RuntimeException("Testing Exceptioin");
 }
 }
